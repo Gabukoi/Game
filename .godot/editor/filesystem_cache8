@@ -1,0 +1,89 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1714940789
+icon.svg::CompressedTexture2D::2857899262204276260::1714743961::1714743968::1::::<><>::
+::res://Assets/::1714940548
+pixel_snowflake_by_mega_hikaru_d9iqg29.png::CompressedTexture2D::9007065616499058011::1714788248::1714788261::1::::<><>::
+::res://Assets/blocks/::1714938873
+::res://Assets/blocks/1 - Grassland/::1714938896
+Extra_plants (16 x 16).png::CompressedTexture2D::5729121575662462704::1714744623::1714938896::1::::<><>::
+Grassland_entities (16 x 16).png::CompressedTexture2D::4538239152504098159::1714744623::1714938896::1::::<><>::
+Terrain (16 x 16).png::CompressedTexture2D::1618001703106925622::1714744623::1714938896::1::::<><>::
+::res://Assets/blocks/1 - Grassland/Background parts/::1714938896
+1 - Foreground_scenery.png::CompressedTexture2D::2406474450848088171::1714744623::1714938895::1::::<><>::
+2 - Hills.png::CompressedTexture2D::4893712211272836352::1714744623::1714938896::1::::<><>::
+3 - Cloud_cover_1.png::CompressedTexture2D::8062074506028416427::1714744623::1714938896::1::::<><>::
+4 - Cloud_cover_2.png::CompressedTexture2D::9006027526704533523::1714744623::1714938896::1::::<><>::
+5 - Sky_color.png::CompressedTexture2D::327381107343176917::1714744623::1714938896::1::::<><>::
+_Complete_static_BG_(288 x 208).png::CompressedTexture2D::4463120214344200907::1714744623::1714938896::1::::<><>::
+::res://Assets/blocks/2 - Autumn Forest/::1714938896
+Autumn_entities (16 x 16).png::CompressedTexture2D::4975312731679618081::1714744623::1714938896::1::::<><>::
+Terrain (16 x 16).png::CompressedTexture2D::552114189542735617::1714744623::1714938896::1::::<><>::
+::res://Assets/blocks/2 - Autumn Forest/Background parts/::1714938896
+1 - Leaf_top.png::CompressedTexture2D::5306992278000050045::1714744623::1714938896::1::::<><>::
+2 - Trees.png::CompressedTexture2D::8041186433119897981::1714744623::1714938896::1::::<><>::
+3 - Bottom_leaf_piles.png::CompressedTexture2D::7444537772091253693::1714744623::1714938896::1::::<><>::
+4 - Tree_row_BG_1.png::CompressedTexture2D::5065336865713661354::1714744623::1714938896::1::::<><>::
+5 - Tree_row_BG_2.png::CompressedTexture2D::5023431371304560807::1714744623::1714938896::1::::<><>::
+6 - Distant_trees.png::CompressedTexture2D::1260474156903763170::1714744623::1714938896::1::::<><>::
+_Complete_static_BG_(288 x 208).png::CompressedTexture2D::5501769837125341376::1714744623::1714938896::1::::<><>::
+::res://Assets/blocks/3 - Tropics/::1714938896
+Terrain (16 x 16).png::CompressedTexture2D::7378284914267225191::1714744623::1714938896::1::::<><>::
+Tropics_entities (16 x 16).png::CompressedTexture2D::8527798802076038383::1714744623::1714938896::1::::<><>::
+::res://Assets/blocks/3 - Tropics/Background parts/::1714938896
+1 - Waters_version_1.png::CompressedTexture2D::8475081314610951153::1714744623::1714938896::1::::<><>::
+2 - Waters_version_2.png::CompressedTexture2D::5141495502110496716::1714744623::1714938896::1::::<><>::
+3 - Floating_clouds.png::CompressedTexture2D::8102602800419433072::1714744623::1714938896::1::::<><>::
+4 - Background_clouds.png::CompressedTexture2D::112868693478126957::1714744623::1714938896::1::::<><>::
+5 - Sky_color.png::CompressedTexture2D::7344708744317806586::1714744623::1714938896::1::::<><>::
+_Complete_static_BG_(288 x 208).png::CompressedTexture2D::4657401747503469022::1714744623::1714938896::1::::<><>::
+::res://Assets/blocks/4 - Winter World/::1714938895
+Terrain (16 x 16).png::CompressedTexture2D::3526663917495984484::1714744623::1714938895::1::::<><>::
+Winter_entities (16 x 16).png::CompressedTexture2D::2138738898797409735::1714744623::1714938895::1::::<><>::
+::res://Assets/blocks/4 - Winter World/Background parts/::1714938895
+1 - Snowy_foreground_area.png::CompressedTexture2D::2753897732360605947::1714744623::1714938895::1::::<><>::
+2 - Smaller_mountains.png::CompressedTexture2D::1106665374791418912::1714744624::1714938895::1::::<><>::
+3 - Big_mountain_BG.png::CompressedTexture2D::3432562659889418019::1714744624::1714938895::1::::<><>::
+_Complete_static_BG_(288 x 208).png::CompressedTexture2D::8688356077614225868::1714744623::1714938895::1::::<><>::
+::res://Assets/blocks/5 - Misc. universal tiles/::1714938895
+Blocks (16 x 16).png::CompressedTexture2D::5575504325539788004::1714744624::1714938895::1::::<><>::
+Bubbling_Oil_frames (16 x 32).png::CompressedTexture2D::3800103859388522350::1714744624::1714938895::1::::<><>::
+Flowers (16 x 16).png::CompressedTexture2D::5821452080196679491::1714744624::1714938895::1::::<><>::
+House (112 x 96).png::CompressedTexture2D::171383951778046718::1714744624::1714938895::1::::<><>::
+Lava_frames (16 x 32).png::CompressedTexture2D::7377517504665413351::1714744624::1714938895::1::::<><>::
+Metal_Wire_fence (16 x 16).png::CompressedTexture2D::7664730591850614733::1714744624::1714938895::1::::<><>::
+Rock_shape (16 x 16).png::CompressedTexture2D::2544632084925801486::1714744624::1714938895::1::::<><>::
+Snack_machine_Bench_Trash_bin (16 x 16).png::CompressedTexture2D::1135736937105987933::1714744624::1714938895::1::::<><>::
+Terrain (16 x 16).png::CompressedTexture2D::7915113321297955642::1714748052::1714938895::1::::<><>::
+Water_frames (16 x 32).png::CompressedTexture2D::3164142613834121024::1714744624::1714938895::1::::<><>::
+::res://Assets/fonts/::1714939974
+dpcomic.ttf::FontFile::2801918783385140956::1714938832::1714938854::1::::<><>::
+ka1.ttf::FontFile::2450500046394646089::1714938843::1714938854::1::::<><>::
+origap__.ttf::FontFile::1678329489963951742::1714939971::1714939974::1::::<><>::
+origa___.ttf::FontFile::4899623101827743953::1714939971::1714939974::1::::<><>::
+::res://Assets/music/::1714942112
+Cooknight_sfx_perfect.wav::AudioStreamWAV::7208996885382116150::1714940569::1714940754::1::::<><>::
+cute-creatures-150622.mp3::AudioStreamMP3::7069415112893034729::1714942112::1714942147::1::::<><>::
+::res://Assets/sprites/::1714938896
+Cat Sprite Sheet.png::CompressedTexture2D::4432777192635431701::1714744592::1714938896::1::::<><>::
+::res://Assets/sprites/Undead executioner puppet/::1714930621
+::res://Assets/sprites/Undead executioner puppet/png/::1714938896
+attacking.png::CompressedTexture2D::628907056313040045::1714930599::1714938895::1::::<><>::
+death.png::CompressedTexture2D::7873686017737402936::1714930599::1714938895::1::::<><>::
+idle2.png::CompressedTexture2D::2118572708820268532::1714930599::1714938895::1::::<><>::
+idle.png::CompressedTexture2D::6772416583977118411::1714930599::1714938895::1::::<><>::
+skill1.png::CompressedTexture2D::7071563357692153112::1714930599::1714938895::1::::<><>::
+summon.png::CompressedTexture2D::5081653159742857110::1714930599::1714938895::1::::<><>::
+summonAppear.png::CompressedTexture2D::4611858822637798731::1714930599::1714938895::1::::<><>::
+summonDeath.png::CompressedTexture2D::277211398168323325::1714930599::1714938895::1::::<><>::
+summonIdle.png::CompressedTexture2D::5155679445009044292::1714930599::1714938895::1::::<><>::
+::res://Scenes/::1714942059
+catto.tscn::PackedScene::3043017456707914036::1714942040::0::1::::<><>::res://Scripts/sprite.gd<>uid://b4fjgs15q3cwb::::res://Assets/sprites/Cat Sprite Sheet.png
+death.tscn::PackedScene::7894008285397439343::1714942059::0::1::::<><>::res://Scripts/death.gd<>uid://b6yav2af35y56::::res://Assets/sprites/Undead executioner puppet/png/summonAppear.png<>uid://i7waiqhmgmmv::::res://Assets/sprites/Undead executioner puppet/png/attacking.png<>uid://c6q63ut57cyuq::::res://Scenes/killzone.tscn<>uid://5git26yobvlc::::res://Assets/sprites/Undead executioner puppet/png/idle2.png
+game.tscn::PackedScene::3278638984414098175::1714942040::0::1::::<><>::uid://bjmcb2ga80dy7::::res://Scenes/catto.tscn<>uid://b4t765fwm8gsh::::res://Assets/blocks/1 - Grassland/Background parts/_Complete_static_BG_(288 x 208).png<>uid://clo20hl27gsns::::res://Assets/blocks/5 - Misc. universal tiles/Blocks (16 x 16).png<>uid://dk1e03su80k3c::::res://Assets/blocks/5 - Misc. universal tiles/Terrain (16 x 16).png<>uid://bajyjux52gwm2::::res://Assets/blocks/1 - Grassland/Background parts/1 - Foreground_scenery.png<>uid://dddyvutcbx7xr::::res://Assets/blocks/5 - Misc. universal tiles/Lava_frames (16 x 32).png<>uid://bqilv0hxuilay::::res://Assets/blocks/4 - Winter World/Terrain (16 x 16).png<>uid://b5wmeu8ma3qtj::::res://Assets/blocks/1 - Grassland/Grassland_entities (16 x 16).png<>uid://cpawy7qdbplu::::res://Assets/blocks/5 - Misc. universal tiles/House (112 x 96).png<>uid://cbysywi43l7yy::::res://Assets/blocks/1 - Grassland/Background parts/2 - Hills.png<>uid://co67p22vxapqx::::res://Assets/blocks/5 - Misc. universal tiles/Flowers (16 x 16).png<>uid://5qayncogmptf::::res://Assets/blocks/4 - Winter World/Winter_entities (16 x 16).png<>uid://dtq6un85hud32::::res://Assets/blocks/3 - Tropics/Tropics_entities (16 x 16).png<>uid://bcivyo1lxabyk::::res://Assets/blocks/5 - Misc. universal tiles/Rock_shape (16 x 16).png<>uid://blcy74l1x33aa::::res://Assets/blocks/5 - Misc. universal tiles/Water_frames (16 x 32).png<>uid://dm4lgo0rqirrf::::res://Assets/blocks/1 - Grassland/Background parts/3 - Cloud_cover_1.png<>uid://d1kt7s7iibl76::::res://Assets/blocks/1 - Grassland/Background parts/4 - Cloud_cover_2.png<>uid://ewt6imwdb6c4::::res://Assets/blocks/1 - Grassland/Background parts/5 - Sky_color.png<>uid://bfiaj8b7w1f1d::::res://Assets/blocks/4 - Winter World/Background parts/1 - Snowy_foreground_area.png<>uid://pcypv3od80vv::::res://Scenes/platform.tscn<>uid://dv1x7qhyk142s::::res://Assets/blocks/4 - Winter World/Background parts/_Complete_static_BG_(288 x 208).png<>uid://c6q63ut57cyuq::::res://Scenes/killzone.tscn<>uid://p1cu8kay2n17::::res://Assets/blocks/4 - Winter World/Background parts/2 - Smaller_mountains.png<>uid://bo502nfs6qil4::::res://Assets/blocks/4 - Winter World/Background parts/3 - Big_mountain_BG.png<>uid://dkp6fstyowr72::::res://Scenes/death.tscn<>uid://cb2ocuuncxxhp::::res://Assets/fonts/origa___.ttf
+killzone.tscn::PackedScene::6983658874459479208::1714942040::0::1::::<><>::res://Scripts/killzone.gd
+platform.tscn::PackedScene::1058446551699882171::1714942040::0::1::::<><>::uid://xb1is6er66so::::res://Assets/blocks/1 - Grassland/Terrain (16 x 16).png
+::res://Scripts/::1714941973
+death.gd::GDScript::-1::1714941973::0::1::::<>Node2D<>::
+killzone.gd::GDScript::-1::1714938394::0::1::::<>Area2D<>::
+snowflake.gd::GDScript::-1::1714789575::0::1::::<>Area2D<>::
+sprite.gd::GDScript::-1::1714938148::0::1::::<>CharacterBody2D<>::

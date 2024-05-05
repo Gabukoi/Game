@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://swuiu2eoe3o2"]
+
+[ext_resource type="AudioStream" uid="uid://c7yqh7tj7pd1r" path="res://Assets/music/cute-creatures-150622.mp3" id="1_g8oma"]
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D"]
+stream = ExtResource("1_g8oma")
+autoplay = true
