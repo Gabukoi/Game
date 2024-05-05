@@ -1,3 +1,5 @@
+TileMap
+Node2D
 AnimationPlayer
 AudioStreamPlayer2D
 Label
@@ -5,10 +7,8 @@ RayCast2D
 Node
 CollisionShape2D
 AnimatedSprite2D
-Node2D
 Timer
 Area2D
 Sprite2D
 AnimatableBody2D
-TileMap
 StaticBody2D
