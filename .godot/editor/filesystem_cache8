@@ -1,9 +1,13 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1714940789
+::res://::1715035030
+default_bus_layout.tres::AudioBusLayout::750164029610133434::1714943717::0::1::::<><>::
+export_presets.cfg::TextFile::-1::1715021573::0::1::::<><>::
 icon.svg::CompressedTexture2D::2857899262204276260::1714743961::1714743968::1::::<><>::
-::res://Assets/::1714940548
+README.md::TextFile::-1::1714945304::0::1::::<><>::
+::res://Assets/::1715012369
 pixel_snowflake_by_mega_hikaru_d9iqg29.png::CompressedTexture2D::9007065616499058011::1714788248::1714788261::1::::<><>::
-::res://Assets/blocks/::1714938873
+::res://Assets/blocks/::1715019433
+blocks.tres::TileSet::4955151471922623941::1715019432::0::1::::<><>::uid://dk1e03su80k3c::::res://Assets/blocks/5 - Misc. universal tiles/Terrain (16 x 16).png<>uid://dddyvutcbx7xr::::res://Assets/blocks/5 - Misc. universal tiles/Lava_frames (16 x 32).png<>uid://dv1x7qhyk142s::::res://Assets/blocks/4 - Winter World/Background parts/_Complete_static_BG_(288 x 208).png<>uid://bajyjux52gwm2::::res://Assets/blocks/1 - Grassland/Background parts/1 - Foreground_scenery.png<>uid://cpawy7qdbplu::::res://Assets/blocks/5 - Misc. universal tiles/House (112 x 96).png<>uid://cbysywi43l7yy::::res://Assets/blocks/1 - Grassland/Background parts/2 - Hills.png<>uid://5qayncogmptf::::res://Assets/blocks/4 - Winter World/Winter_entities (16 x 16).png<>uid://dm4lgo0rqirrf::::res://Assets/blocks/1 - Grassland/Background parts/3 - Cloud_cover_1.png<>uid://d1kt7s7iibl76::::res://Assets/blocks/1 - Grassland/Background parts/4 - Cloud_cover_2.png<>uid://dtq6un85hud32::::res://Assets/blocks/3 - Tropics/Tropics_entities (16 x 16).png<>uid://ewt6imwdb6c4::::res://Assets/blocks/1 - Grassland/Background parts/5 - Sky_color.png<>uid://bfiaj8b7w1f1d::::res://Assets/blocks/4 - Winter World/Background parts/1 - Snowy_foreground_area.png<>uid://b4t765fwm8gsh::::res://Assets/blocks/1 - Grassland/Background parts/_Complete_static_BG_(288 x 208).png<>uid://bfy10kgt0rtth::::res://Assets/blocks/home blocks/14-TileSets/Decorations (32x32).png<>uid://bqilv0hxuilay::::res://Assets/blocks/4 - Winter World/Terrain (16 x 16).png<>uid://cnvyu4kmclhov::::res://Assets/blocks/home blocks/14-TileSets/Terrain (32x32).png<>uid://b5wmeu8ma3qtj::::res://Assets/blocks/1 - Grassland/Grassland_entities (16 x 16).png<>uid://co67p22vxapqx::::res://Assets/blocks/5 - Misc. universal tiles/Flowers (16 x 16).png<>uid://bcivyo1lxabyk::::res://Assets/blocks/5 - Misc. universal tiles/Rock_shape (16 x 16).png<>uid://p1cu8kay2n17::::res://Assets/blocks/4 - Winter World/Background parts/2 - Smaller_mountains.png<>uid://bo502nfs6qil4::::res://Assets/blocks/4 - Winter World/Background parts/3 - Big_mountain_BG.png<>uid://blcy74l1x33aa::::res://Assets/blocks/5 - Misc. universal tiles/Water_frames (16 x 32).png
 ::res://Assets/blocks/1 - Grassland/::1714938896
 Extra_plants (16 x 16).png::CompressedTexture2D::5729121575662462704::1714744623::1714938896::1::::<><>::
 Grassland_entities (16 x 16).png::CompressedTexture2D::4538239152504098159::1714744623::1714938896::1::::<><>::
@@ -55,14 +59,111 @@ Rock_shape (16 x 16).png::CompressedTexture2D::2544632084925801486::1714744624::
 Snack_machine_Bench_Trash_bin (16 x 16).png::CompressedTexture2D::1135736937105987933::1714744624::1714938895::1::::<><>::
 Terrain (16 x 16).png::CompressedTexture2D::7915113321297955642::1714748052::1714938895::1::::<><>::
 Water_frames (16 x 32).png::CompressedTexture2D::3164142613834121024::1714744624::1714938895::1::::<><>::
+::res://Assets/blocks/home blocks/::1715012483
+::res://Assets/blocks/home blocks/08-Box/::1715012542
+Box Pieces 1.png::CompressedTexture2D::7812392515518118411::1715012390::1715012542::1::::<><>::
+Box Pieces 2.png::CompressedTexture2D::6366357607467799402::1715012390::1715012542::1::::<><>::
+Box Pieces 3.png::CompressedTexture2D::7265870469456321480::1715012390::1715012542::1::::<><>::
+Box Pieces 4.png::CompressedTexture2D::876894660344816703::1715012390::1715012542::1::::<><>::
+Hit.png::CompressedTexture2D::6230898683566877523::1715012390::1715012542::1::::<><>::
+Idle.png::CompressedTexture2D::5585296240901979580::1715012390::1715012542::1::::<><>::
+::res://Assets/blocks/home blocks/11-Door/::1715012542
+Closiong (46x56).png::CompressedTexture2D::9208780199285657647::1715012391::1715012542::1::::<><>::
+Idle.png::CompressedTexture2D::4005221343755078385::1715012392::1715012542::1::::<><>::
+Opening (46x56).png::CompressedTexture2D::8991527265387327248::1715012392::1715012542::1::::<><>::
+::res://Assets/blocks/home blocks/12-Live and Coins/::1715012542
+Big Diamond Hit (18x14).png::CompressedTexture2D::8766939975398567439::1715012392::1715012542::1::::<><>::
+Big Diamond Idle (18x14).png::CompressedTexture2D::6732201602486110637::1715012392::1715012542::1::::<><>::
+Big Heart Hit (18x14).png::CompressedTexture2D::509955040241370084::1715012392::1715012542::1::::<><>::
+Big Heart Idle (18x14).png::CompressedTexture2D::8669283318789167635::1715012392::1715012542::1::::<><>::
+Live Bar.png::CompressedTexture2D::9056560548712491759::1715012392::1715012542::1::::<><>::
+Numbers (6x8).png::CompressedTexture2D::7183075503343079101::1715012392::1715012542::1::::<><>::
+Small Diamond (18x14).png::CompressedTexture2D::2516549780962853241::1715012393::1715012542::1::::<><>::
+Small Heart Hit (18x14).png::CompressedTexture2D::584622305130205760::1715012393::1715012542::1::::<><>::
+Small Heart Idle (18x14).png::CompressedTexture2D::4791060347461918184::1715012393::1715012542::1::::<><>::
+::res://Assets/blocks/home blocks/13-Dialogue Boxes/::1715012543
+!!! In (24x8).png::CompressedTexture2D::8373004047577303794::1715012393::1715012542::1::::<><>::
+!!! Out (24x8).png::CompressedTexture2D::7935057317634085157::1715012393::1715012542::1::::<><>::
+Attack In (24x8).png::CompressedTexture2D::1477301044375312390::1715012393::1715012542::1::::<><>::
+Attack Out (24x8).png::CompressedTexture2D::298072858719250331::1715012393::1715012543::1::::<><>::
+Boom In (24x8).png::CompressedTexture2D::2122779313216742160::1715012393::1715012543::1::::<><>::
+Boom Out (24x8).png::CompressedTexture2D::4422007199917156015::1715012394::1715012543::1::::<><>::
+Dead In (24x8).png::CompressedTexture2D::4382553017317701347::1715012394::1715012543::1::::<><>::
+Dead Out (24x8).png::CompressedTexture2D::439463984776577202::1715012394::1715012543::1::::<><>::
+Hello In (24x8).png::CompressedTexture2D::875665174586134030::1715012394::1715012543::1::::<><>::
+Hello Out (24x8).png::CompressedTexture2D::8089525125572720189::1715012394::1715012543::1::::<><>::
+Hi In (24x8).png::CompressedTexture2D::352587392450228494::1715012394::1715012543::1::::<><>::
+Hi Out (24x8).png::CompressedTexture2D::2337843468853040508::1715012394::1715012543::1::::<><>::
+Interrogation In (24x8).png::CompressedTexture2D::4318637270116852014::1715012394::1715012543::1::::<><>::
+Interrogation Out (24x8).png::CompressedTexture2D::7696390848731863697::1715012395::1715012543::1::::<><>::
+Loser In (24x8).png::CompressedTexture2D::8571026195787939163::1715012395::1715012543::1::::<><>::
+Loser Out (24x8).png::CompressedTexture2D::820892876014647247::1715012395::1715012543::1::::<><>::
+No In (24x8).png::CompressedTexture2D::7077537875104996394::1715012395::1715012543::1::::<><>::
+No Out (24x8).png::CompressedTexture2D::7495708080785619283::1715012395::1715012543::1::::<><>::
+WTF In (24x8).png::CompressedTexture2D::2853157400484185179::1715012395::1715012542::1::::<><>::
+WTF Out (24x8).png::CompressedTexture2D::8877731362807202575::1715012395::1715012542::1::::<><>::
+::res://Assets/blocks/home blocks/14-TileSets/::1715012543
+Decorations (32x32).png::CompressedTexture2D::2788533790039948241::1715012395::1715012542::1::::<><>::
+Terrain (32x32).png::CompressedTexture2D::5730142730393908485::1715012395::1715012543::1::::<><>::
+::res://Assets/blocks/Sprites/::1715012541
+Kings and Pigs.png::CompressedTexture2D::2323081248589291221::1715012384::1715012541::1::::<><>::
+::res://Assets/blocks/Sprites/01-King Human/::1715012542
+Attack (78x58).png::CompressedTexture2D::186568290178466842::1715012384::1715012542::1::::<><>::
+Dead (78x58).png::CompressedTexture2D::5666154925519017666::1715012385::1715012542::1::::<><>::
+Door In (78x58).png::CompressedTexture2D::2615823228828593845::1715012385::1715012541::1::::<><>::
+Door Out (78x58).png::CompressedTexture2D::1509582356136823696::1715012385::1715012541::1::::<><>::
+Fall (78x58).png::CompressedTexture2D::5505843153963506164::1715012385::1715012541::1::::<><>::
+Ground (78x58).png::CompressedTexture2D::8495582679949566696::1715012385::1715012541::1::::<><>::
+Hit (78x58).png::CompressedTexture2D::2382235387675687738::1715012385::1715012541::1::::<><>::
+Idle (78x58).png::CompressedTexture2D::2849392177886250777::1715012385::1715012541::1::::<><>::
+Jump (78x58).png::CompressedTexture2D::4945178775228135776::1715012386::1715012541::1::::<><>::
+Run (78x58).png::CompressedTexture2D::8568915363051561384::1715012386::1715012541::1::::<><>::
+::res://Assets/blocks/Sprites/02-King Pig/::1715012541
+Attack (38x28).png::CompressedTexture2D::4201020998511168496::1715012386::1715012541::1::::<><>::
+Dead (38x28).png::CompressedTexture2D::8698843349558247070::1715012386::1715012541::1::::<><>::
+Fall (38x28).png::CompressedTexture2D::4048504442536791942::1715012386::1715012541::1::::<><>::
+Ground (38x28).png::CompressedTexture2D::385657792031274803::1715012386::1715012541::1::::<><>::
+Hit (38x28).png::CompressedTexture2D::480772463841673201::1715012386::1715012540::1::::<><>::
+Idle (38x28).png::CompressedTexture2D::8821934143159982993::1715012387::1715012540::1::::<><>::
+Jump (38x28).png::CompressedTexture2D::6321950997680736890::1715012387::1715012540::1::::<><>::
+Run (38x28).png::CompressedTexture2D::8061203510679123280::1715012387::1715012540::1::::<><>::
+::res://Assets/blocks/Sprites/03-Pig/::1715012542
+Attack (34x28).png::CompressedTexture2D::291521572867875104::1715012387::1715012540::1::::<><>::
+Dead (34x28).png::CompressedTexture2D::1172858202871112202::1715012387::1715012540::1::::<><>::
+Fall (34x28).png::CompressedTexture2D::9016091773099250174::1715012387::1715012540::1::::<><>::
+Ground (34x28).png::CompressedTexture2D::7376328891428630817::1715012387::1715012540::1::::<><>::
+Hit (34x28).png::CompressedTexture2D::7376009747391539263::1715012387::1715012542::1::::<><>::
+Idle (34x28).png::CompressedTexture2D::5369815116777437102::1715012387::1715012542::1::::<><>::
+Jump (34x28).png::CompressedTexture2D::5452123283356182674::1715012388::1715012542::1::::<><>::
+Run (34x28).png::CompressedTexture2D::7096605834297106396::1715012388::1715012542::1::::<><>::
+::res://Assets/blocks/Sprites/04-Pig Throwing a Box/::1715012542
+Idle (26x30).png::CompressedTexture2D::7560120122508897977::1715012388::1715012542::1::::<><>::
+Picking Box (26x30).png::CompressedTexture2D::8133176582835587269::1715012388::1715012542::1::::<><>::
+Run (26x30).png::CompressedTexture2D::3325383532879322320::1715012388::1715012542::1::::<><>::
+Throwing Box (26x30).png::CompressedTexture2D::8068522100503909458::1715012388::1715012542::1::::<><>::
+::res://Assets/blocks/Sprites/05-Pig Thowing a Bomb/::1715012541
+Idle (26x26).png::CompressedTexture2D::8188522238145144062::1715012388::1715012541::1::::<><>::
+Picking Bomb (26x26).png::CompressedTexture2D::4156188416919800570::1715012388::1715012541::1::::<><>::
+Run (26x26).png::CompressedTexture2D::174382170041361132::1715012389::1715012541::1::::<><>::
+Throwing Boom (26x26).png::CompressedTexture2D::6495611825136827300::1715012389::1715012541::1::::<><>::
+::res://Assets/blocks/Sprites/06-Pig Hide in the Box/::1715012541
+Fall (26x20).png::CompressedTexture2D::3095086996711845395::1715012389::1715012541::1::::<><>::
+Ground (26x20).png::CompressedTexture2D::2515666961727741911::1715012389::1715012541::1::::<><>::
+Jump (26x20).png::CompressedTexture2D::4118406554044968579::1715012389::1715012541::1::::<><>::
+Jump Anticipation (26x20).png::CompressedTexture2D::8720979996496267648::1715012389::1715012541::1::::<><>::
+Looking Out (26x20).png::CompressedTexture2D::5858230943457634556::1715012389::1715012541::1::::<><>::
+::res://Assets/blocks/Sprites/07-Pig With a Match/::1715012541
+Lighting the Cannon (26x18).png::CompressedTexture2D::2756597179357155646::1715012389::1715012541::1::::<><>::
+Lighting the Match (26x18).png::CompressedTexture2D::8971907056568234938::1715012390::1715012541::1::::<><>::
+Match On (26x18).png::CompressedTexture2D::1184637346432074231::1715012390::1715012541::1::::<><>::
 ::res://Assets/fonts/::1714939974
 dpcomic.ttf::FontFile::2801918783385140956::1714938832::1714938854::1::::<><>::
 ka1.ttf::FontFile::2450500046394646089::1714938843::1714938854::1::::<><>::
 origap__.ttf::FontFile::1678329489963951742::1714939971::1714939974::1::::<><>::
 origa___.ttf::FontFile::4899623101827743953::1714939971::1714939974::1::::<><>::
-::res://Assets/music/::1714942112
+::res://Assets/music/::1714942185
 Cooknight_sfx_perfect.wav::AudioStreamWAV::7208996885382116150::1714940569::1714940754::1::::<><>::
-cute-creatures-150622.mp3::AudioStreamMP3::7069415112893034729::1714942112::1714942147::1::::<><>::
+cute-creatures-150622.mp3::AudioStreamMP3::7069415112893034729::1714942112::1714942185::1::::<><>::
 ::res://Assets/sprites/::1714938896
 Cat Sprite Sheet.png::CompressedTexture2D::4432777192635431701::1714744592::1714938896::1::::<><>::
 ::res://Assets/sprites/Undead executioner puppet/::1714930621
@@ -76,14 +177,20 @@ summon.png::CompressedTexture2D::5081653159742857110::1714930599::1714938895::1:
 summonAppear.png::CompressedTexture2D::4611858822637798731::1714930599::1714938895::1::::<><>::
 summonDeath.png::CompressedTexture2D::277211398168323325::1714930599::1714938895::1::::<><>::
 summonIdle.png::CompressedTexture2D::5155679445009044292::1714930599::1714938895::1::::<><>::
-::res://Scenes/::1714942059
-catto.tscn::PackedScene::3043017456707914036::1714942040::0::1::::<><>::res://Scripts/sprite.gd<>uid://b4fjgs15q3cwb::::res://Assets/sprites/Cat Sprite Sheet.png
-death.tscn::PackedScene::7894008285397439343::1714942059::0::1::::<><>::res://Scripts/death.gd<>uid://b6yav2af35y56::::res://Assets/sprites/Undead executioner puppet/png/summonAppear.png<>uid://i7waiqhmgmmv::::res://Assets/sprites/Undead executioner puppet/png/attacking.png<>uid://c6q63ut57cyuq::::res://Scenes/killzone.tscn<>uid://5git26yobvlc::::res://Assets/sprites/Undead executioner puppet/png/idle2.png
-game.tscn::PackedScene::3278638984414098175::1714942040::0::1::::<><>::uid://bjmcb2ga80dy7::::res://Scenes/catto.tscn<>uid://b4t765fwm8gsh::::res://Assets/blocks/1 - Grassland/Background parts/_Complete_static_BG_(288 x 208).png<>uid://clo20hl27gsns::::res://Assets/blocks/5 - Misc. universal tiles/Blocks (16 x 16).png<>uid://dk1e03su80k3c::::res://Assets/blocks/5 - Misc. universal tiles/Terrain (16 x 16).png<>uid://bajyjux52gwm2::::res://Assets/blocks/1 - Grassland/Background parts/1 - Foreground_scenery.png<>uid://dddyvutcbx7xr::::res://Assets/blocks/5 - Misc. universal tiles/Lava_frames (16 x 32).png<>uid://bqilv0hxuilay::::res://Assets/blocks/4 - Winter World/Terrain (16 x 16).png<>uid://b5wmeu8ma3qtj::::res://Assets/blocks/1 - Grassland/Grassland_entities (16 x 16).png<>uid://cpawy7qdbplu::::res://Assets/blocks/5 - Misc. universal tiles/House (112 x 96).png<>uid://cbysywi43l7yy::::res://Assets/blocks/1 - Grassland/Background parts/2 - Hills.png<>uid://co67p22vxapqx::::res://Assets/blocks/5 - Misc. universal tiles/Flowers (16 x 16).png<>uid://5qayncogmptf::::res://Assets/blocks/4 - Winter World/Winter_entities (16 x 16).png<>uid://dtq6un85hud32::::res://Assets/blocks/3 - Tropics/Tropics_entities (16 x 16).png<>uid://bcivyo1lxabyk::::res://Assets/blocks/5 - Misc. universal tiles/Rock_shape (16 x 16).png<>uid://blcy74l1x33aa::::res://Assets/blocks/5 - Misc. universal tiles/Water_frames (16 x 32).png<>uid://dm4lgo0rqirrf::::res://Assets/blocks/1 - Grassland/Background parts/3 - Cloud_cover_1.png<>uid://d1kt7s7iibl76::::res://Assets/blocks/1 - Grassland/Background parts/4 - Cloud_cover_2.png<>uid://ewt6imwdb6c4::::res://Assets/blocks/1 - Grassland/Background parts/5 - Sky_color.png<>uid://bfiaj8b7w1f1d::::res://Assets/blocks/4 - Winter World/Background parts/1 - Snowy_foreground_area.png<>uid://pcypv3od80vv::::res://Scenes/platform.tscn<>uid://dv1x7qhyk142s::::res://Assets/blocks/4 - Winter World/Background parts/_Complete_static_BG_(288 x 208).png<>uid://c6q63ut57cyuq::::res://Scenes/killzone.tscn<>uid://p1cu8kay2n17::::res://Assets/blocks/4 - Winter World/Background parts/2 - Smaller_mountains.png<>uid://bo502nfs6qil4::::res://Assets/blocks/4 - Winter World/Background parts/3 - Big_mountain_BG.png<>uid://dkp6fstyowr72::::res://Scenes/death.tscn<>uid://cb2ocuuncxxhp::::res://Assets/fonts/origa___.ttf
-killzone.tscn::PackedScene::6983658874459479208::1714942040::0::1::::<><>::res://Scripts/killzone.gd
-platform.tscn::PackedScene::1058446551699882171::1714942040::0::1::::<><>::uid://xb1is6er66so::::res://Assets/blocks/1 - Grassland/Terrain (16 x 16).png
-::res://Scripts/::1714941973
-death.gd::GDScript::-1::1714941973::0::1::::<>Node2D<>::
-killzone.gd::GDScript::-1::1714938394::0::1::::<>Area2D<>::
+::res://Scenes/::1715021558
+Area2D1.gd::GDScript::-1::1715017711::0::1::::<>Area2D<>::
+audio_stream_player_2d.tscn::PackedScene::1310045214657829031::1714942346::0::1::::<><>::uid://c7yqh7tj7pd1r::::res://Assets/music/cute-creatures-150622.mp3
+catto.tscn::PackedScene::3043017456707914036::1715021497::0::1::::<><>::res://Scripts/sprite.gd<>uid://b4fjgs15q3cwb::::res://Assets/sprites/Cat Sprite Sheet.png
+death.tscn::PackedScene::7894008285397439343::1715021496::0::1::::<><>::res://Scripts/death.gd<>uid://b6yav2af35y56::::res://Assets/sprites/Undead executioner puppet/png/summonAppear.png<>uid://i7waiqhmgmmv::::res://Assets/sprites/Undead executioner puppet/png/attacking.png<>uid://c6q63ut57cyuq::::res://Scenes/killzone.tscn<>uid://5git26yobvlc::::res://Assets/sprites/Undead executioner puppet/png/idle2.png
+doors.tscn::PackedScene::2444451956618911636::1715021498::0::1::::<><>::uid://d1dte1jt83dwi::::res://Assets/blocks/home blocks/11-Door/Opening (46x56).png
+game.tscn::PackedScene::3278638984414098175::1715021496::0::1::::<><>::uid://bjmcb2ga80dy7::::res://Scenes/catto.tscn<>uid://ccukvdvmrpqb2::::res://Assets/blocks/blocks.tres<>res://Scripts/Area2D.gd<>uid://pcypv3od80vv::::res://Scenes/platform.tscn<>uid://c6q63ut57cyuq::::res://Scenes/killzone.tscn<>uid://dkp6fstyowr72::::res://Scenes/death.tscn<>uid://cb2ocuuncxxhp::::res://Assets/fonts/origa___.ttf
+home.tscn::PackedScene::7247385209322742331::1715021558::0::1::::<><>::uid://ccukvdvmrpqb2::::res://Assets/blocks/blocks.tres<>uid://x17x7rap7urg::::res://Scenes/stairs.tscn<>uid://ba3d1cf6j2bh1::::res://Scenes/doors.tscn<>res://Scenes/Area2D1.gd<>uid://bjmcb2ga80dy7::::res://Scenes/catto.tscn
+killzone.tscn::PackedScene::6983658874459479208::1715021496::0::1::::<><>::res://Scripts/killzone.gd
+platform.tscn::PackedScene::1058446551699882171::1715021497::0::1::::<><>::uid://xb1is6er66so::::res://Assets/blocks/1 - Grassland/Terrain (16 x 16).png
+stairs.tscn::PackedScene::1670002949338844616::1715021498::0::1::::<><>::uid://bfy10kgt0rtth::::res://Assets/blocks/home blocks/14-TileSets/Decorations (32x32).png
+::res://Scripts/::1715017678
+Area2D.gd::GDScript::-1::1715017678::0::1::::<>Area2D<>::
+death.gd::GDScript::-1::1714943758::0::1::::<>Node2D<>::
+killzone.gd::GDScript::-1::1714943762::0::1::::<>Area2D<>::
 snowflake.gd::GDScript::-1::1714789575::0::1::::<>Area2D<>::
-sprite.gd::GDScript::-1::1714938148::0::1::::<>CharacterBody2D<>::
+sprite.gd::GDScript::-1::1715017199::0::1::::<>CharacterBody2D<>::

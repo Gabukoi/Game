@@ -1,0 +1,37 @@
+[gd_scene load_steps=6 format=3 uid="uid://ba3d1cf6j2bh1"]
+
+[ext_resource type="Texture2D" uid="uid://d1dte1jt83dwi" path="res://Assets/blocks/home blocks/11-Door/Opening (46x56).png" id="1_3xb4h"]
+
+[sub_resource type="SegmentShape2D" id="SegmentShape2D_juutb"]
+a = Vector2(1, -1)
+b = Vector2(44, -1)
+
+[sub_resource type="Animation" id="Animation_e401n"]
+resource_name = "open"
+
+[sub_resource type="Animation" id="Animation_svwsu"]
+length = 0.001
+
+[sub_resource type="AnimationLibrary" id="AnimationLibrary_jrbdc"]
+_data = {
+"RESET": SubResource("Animation_svwsu"),
+"open": SubResource("Animation_e401n")
+}
+
+[node name="Doors" type="StaticBody2D"]
+collision_mask = 2
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-23, 1)
+shape = SubResource("SegmentShape2D_juutb")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(-1, -27)
+texture = ExtResource("1_3xb4h")
+region_enabled = true
+region_rect = Rect2(0, 0, 46, 56)
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
+libraries = {
+"": SubResource("AnimationLibrary_jrbdc")
+}

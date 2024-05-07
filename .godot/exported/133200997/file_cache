@@ -1,7 +1,11 @@
-res://Scenes/catto.tscn::57af32df6b9ea99b30db765fafa015e4::1714945652::res://.godot/exported/133200997/export-13f842351838a0f47856247a44beae59-catto.scn
-res://Scenes/death.tscn::44f83cb16e3e6c66d2fe776e58c3825e::1714945652::res://.godot/exported/133200997/export-aad687f8ecbd8a5ac03bf8fc1ee3bce1-death.scn
-res://Scenes/game.tscn::9567711a14f068f6d2e0ed7454c5cffe::1714946916::res://.godot/exported/133200997/export-d45e16ca8d170891778b9dcfa9c69e68-game.scn
-res://Scenes/killzone.tscn::cadf008d7984e8468f90d471f0b98115::1714945652::res://.godot/exported/133200997/export-d1af5ecceb7d635322ae60fe36e3ac29-killzone.scn
-res://Scenes/platform.tscn::16b4a880f0244d86f12db3cef5d4c938::1714945652::res://.godot/exported/133200997/export-1c750248b0c8da796cecd1f6aa3f1f6d-platform.scn
+res://Scenes/catto.tscn::5b8be350dd157c3f1f906f7dd0e5b11a::1715021497::res://.godot/exported/133200997/export-13f842351838a0f47856247a44beae59-catto.scn
+res://Scenes/death.tscn::44f83cb16e3e6c66d2fe776e58c3825e::1715021496::res://.godot/exported/133200997/export-aad687f8ecbd8a5ac03bf8fc1ee3bce1-death.scn
+res://Scenes/game.tscn::c807578527e40d0a87a8efb75a7d6d3c::1715021496::res://.godot/exported/133200997/export-d45e16ca8d170891778b9dcfa9c69e68-game.scn
+res://Scenes/killzone.tscn::cadf008d7984e8468f90d471f0b98115::1715021496::res://.godot/exported/133200997/export-d1af5ecceb7d635322ae60fe36e3ac29-killzone.scn
+res://Scenes/platform.tscn::3594235f43b74792a9e33a210f5d7cf3::1715021497::res://.godot/exported/133200997/export-1c750248b0c8da796cecd1f6aa3f1f6d-platform.scn
 res://Scenes/audio_stream_player_2d.tscn::1a8174de3c211a93878d04333c22e060::1714942346::res://.godot/exported/133200997/export-1e296e4a4daaf485cbf0657fcdde7d1d-audio_stream_player_2d.scn
 res://default_bus_layout.tres::d97de57758730ff19f96cde321d719df::1714943717::res://.godot/exported/133200997/export-19246414aa9fb561ced4b8dce477acec-default_bus_layout.res
+res://Assets/blocks/blocks.tres::879ff59f8150bd7f12912e76bb4575b8::1715019432::res://.godot/exported/133200997/export-9306a9c85f2a2eb90cf5485b22df05ac-blocks.res
+res://Scenes/doors.tscn::abb0ee9da09f5d96e9c8936195f7977e::1715021498::res://.godot/exported/133200997/export-12f25790ccd36c35517a5527e8e2ff23-doors.scn
+res://Scenes/home.tscn::3b6da7af375e3bc04aa1d277f655f449::1715021558::res://.godot/exported/133200997/export-f16688a7aff0e68ca2599f39643f8705-home.scn
+res://Scenes/stairs.tscn::65933b900e4447da66dcb50669411446::1715021498::res://.godot/exported/133200997/export-17ebf31b571e28c73976b58f9fff4a3b-stairs.scn

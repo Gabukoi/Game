@@ -1,0 +1,20 @@
+[gd_scene load_steps=3 format=3 uid="uid://x17x7rap7urg"]
+
+[ext_resource type="Texture2D" uid="uid://bfy10kgt0rtth" path="res://Assets/blocks/home blocks/14-TileSets/Decorations (32x32).png" id="1_nfaom"]
+
+[sub_resource type="SegmentShape2D" id="SegmentShape2D_52j1d"]
+a = Vector2(7, 0)
+b = Vector2(39, 0)
+
+[node name="stairs" type="AnimatableBody2D"]
+
+[node name="Sprite" type="Sprite2D" parent="."]
+position = Vector2(0, -7.5)
+texture = ExtResource("1_nfaom")
+region_enabled = true
+region_rect = Rect2(160, 30, 32, 9)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-23, -8)
+shape = SubResource("SegmentShape2D_52j1d")
+one_way_collision = true

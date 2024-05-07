@@ -3,7 +3,8 @@
 [ext_resource type="Texture2D" uid="uid://xb1is6er66so" path="res://Assets/blocks/1 - Grassland/Terrain (16 x 16).png" id="1_pftog"]
 
 [sub_resource type="SegmentShape2D" id="SegmentShape2D_52j1d"]
-b = Vector2(46, 0)
+a = Vector2(7, 0)
+b = Vector2(39, 0)
 
 [node name="AnimatableBody2D" type="AnimatableBody2D"]
 
